@@ -1,5 +1,8 @@
 _repo: The-migrations-of-early-culture-A-study-of-the-significance-of-the-geographical-distribution-__62164
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62164-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Grafton Elliot
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25053
     wikipedia: https://en.wikipedia.org/wiki/Grafton_Elliot_Smith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62164#The-migrations-of-early-culture-A-study-of-the-significance-of-the-geographical-distribution-_
 gutenberg_issued: '2020-05-17'
 gutenberg_type: Text
 identifiers:
