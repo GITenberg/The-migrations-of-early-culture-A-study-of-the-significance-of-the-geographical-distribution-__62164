@@ -1,0 +1,32 @@
+_repo: The-migrations-of-early-culture-A-study-of-the-significance-of-the-geographical-distribution-__62164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Grafton Elliot
+    alias: Smith, G. Elliot (Grafton Elliot), Sir
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '25053'
+    url: http://www.gutenberg.org/2009/agents/25053
+    wikipedia: https://en.wikipedia.org/wiki/Grafton_Elliot_Smith
+description: ''
+gutenberg_issued: '2020-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62164'
+  lccn: '16006416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: University of Manchester publications. no. CII
+subjects:
+- !lcsh 'Human beings -- Migrations'
+- !lcsh 'Mummies'
+- !lcc 'GT'
+- !lcsh 'Ethnology'
+- GITenberg
+title: "The migrations of early culture\r\nA study of the significance of the geographical\
+  \ distribution of the practice of mummification as evidence of the migrations of\
+  \ peoples and the spread of certain customs and beliefs"
+url: http://www.gutenberg.org/ebooks/62164
